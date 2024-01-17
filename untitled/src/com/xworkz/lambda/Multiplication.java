@@ -1,6 +1,6 @@
 package com.xworkz.lambda;
 
-@FunctionalInterface
+@java.lang.FunctionalInterface
 public interface Multiplication {
 
     void multiply(int i, int y);
